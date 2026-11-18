@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+simulation/logs/
+simulation/results_fig5_matrix/
+simulation/traces/
+simulation/traces3/
+simulation/traces6/
+simulation/traces9/
+simulation/config/fig5_jobs/
+simulation/simulation_results_*.json
